@@ -9,4 +9,4 @@ Good luck!
 My Repositories:
 - PythonMag:
     > a persian magazine for learning Python and its libraries.
-    > [Python](https://pravuramclasses.com/wp-content/uploads/2021/12/Python-Programming-1024x512.jpg)
+    > ![Python](https://pravuramclasses.com/wp-content/uploads/2021/12/Python-Programming-1024x512.jpg)
