@@ -4,3 +4,9 @@ Hello, this is ‍‍`MohammadReza` from `Iran`, a person who enjoys programming
 On the other hand, `MohammadReza` is well versed in frameworks such as `Django`, `Flask` and `Kivi` and can work with them.
 If you would like to work with me or if you like my work, I would be happy to share them with me via [Email](mailto:more.amani@yahoo.com) or [LinkedIn](https://www.linkedin.com/in/mohammadreza-amani/).
 Good luck!
+
+
+My Repositories:
+- PythonMag:
+    > a persian magazine for learning Python and its libraries.
+    > [Python](https://pravuramclasses.com/wp-content/uploads/2021/12/Python-Programming-1024x512.jpg)
