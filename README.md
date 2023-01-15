@@ -23,7 +23,7 @@ I'm also a `Linux` user and I love `Open Source` projects.
 you can find my projects on my [GitHub](https://github.com/MohammadrezaAmani)
 
 ## My Resume
-You can find my resume on here: [Resume](./CVFiles/MohammadrezaAmaniCV.V.2.0.pdf)
+You can find my resume on here: [Resume](./CVFiles/MohammadrezaAmaniCV.V.2.1.pdf)
 
 ## Contact Me
 ![Twitter Follow](https://img.shields.io/twitter/follow/Moh_ammadreza?style=social)
