@@ -33,14 +33,12 @@ you can find my projects on my [GitHub](https://github.com/MohammadrezaAmani) --
 You can find my resume on here: [Resume](./CVFiles/MohammadrezaAmaniCV.V.2.0.pdf)
 
 ### Contact Me
-![Twitter Follow](https://img.shields.io/twitter/follow/Moh_ammadreza?style=social)
-<!-- ![GitHub followers](https://img.shields.io/github/followers/MohammadrezaAmani?style=social) -->
 ![Email](https://img.shields.io/badge/Email-More.amani%40yahoo.com-purple)
 
+![Twitter Follow](https://img.shields.io/twitter/follow/Moh_ammadreza?style=social)
 
 ![Telegram](https://img.shields.io/badge/Telegram-MRAGHH-blue)
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammadreza%20Amani-blue)
-
 
 ![Twitter](https://img.shields.io/badge/Twitter-Moh_ammadreza-blue)
 ![Instagram](https://img.shields.io/badge/Instagram-more.amani-green)
