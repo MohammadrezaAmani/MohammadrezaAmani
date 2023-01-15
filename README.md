@@ -3,7 +3,9 @@
 ![Coding](./assets/coding.gif)
 
 
-Hello, this is ‍‍`MohammadReza`! A 21 years old **Back-End developer** and **Computer science** student at the [University of Amirkabir](https://aut.ac.ir) (Tehran Polytechnic).
+Hello, this is ‍‍`MohammadReza`!
+
+A 21 years old **Back-End developer** and **Computer science** student at the [University of Amirkabir](https://aut.ac.ir) (Tehran Polytechnic).
 
 I'm a `Python` and `Django` developer, and I'm interested in `Machine Learning` and `Natural Language Processing`.
 
