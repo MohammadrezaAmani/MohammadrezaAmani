@@ -32,7 +32,7 @@ I'm also a `Linux` user and I love `Open Source` projects.
 you can find my projects on my [GitHub](https://github.com/MohammadrezaAmani) -->
 
 ### My Resume
-You can find my resume on here: [Resume](./CVFiles/MohammadrezaAmaniCV.V.2.0.pdf)
+You can find my resume on here: [Resume](./CVFiles/MohammadrezaAmaniCV.V.2.1.pdf)
 
 ### Contact Me
 ![Email](https://img.shields.io/badge/Email-More.amani%40yahoo.com-purple)
