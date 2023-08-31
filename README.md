@@ -1,8 +1,8 @@
 Mohammadreza Amani
 =====================
 
-
-Hey, it's Mohammadreza, I don't have much to say, if you need to know something about me, you can search for it in my [Resume](./CVFiles/MohammadrezaAmaniCV.V.2.1.pdf) or [repositories](https://github.com/MohammadrezaAmani?tab=repositories), you will find it.
+<p align="center">
+Hey, it's Mohammadreza, I don't have much to say, if you need to know something about me, you can find it in my <a href="./CVFiles/MohammadrezaAmaniCV.V.2.1.pdf"> Resume </a> or <a href="https://github.com/MohammadrezaAmani?tab=repositories"> repositories</a>.
 
 
 current life status: `ALIVE🌲`
@@ -16,7 +16,24 @@ while status.ALIVE:
 
 
 If you feel you need my help in a project or want to communicate with me, feel free to email me.
+</p>
 
-Ways to contact me:
+<p align="center">
+    <br>
+    <b>Ways to contact me:</b>
+    <br>
+    <br>
+    <a href="mailto:More.Amani@yahoo.com">
+        EMAIL
+    </a>
+    •
+    <a href="https://www.linkedin.com/in/mohammadreza-amani">
+        LINKEDIN
+    </a>
+    •
+    <a href="https://t.me/MRAGHH">
+        TELEGRAM
+    </a>
+</p>
 
-[Email](mailto:More.Amani@yahoo.com) . [Telegram](https://t.me/MRAGHH) . [Linkedin](https://www.linkedin.com/in/mohammadreza-amani)
+<br>
