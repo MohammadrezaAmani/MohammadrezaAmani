@@ -2,7 +2,7 @@ Mohammadreza Amani
 =====================
 
 <p align="center">
-Hey, it's Mohammadreza, I don't have much to say, if you need to know something about me, you can find it in my <a href="./CVFiles/MohammadrezaAmaniCV.V3.0.1.en.pdf"> Resume </a>.
+Hey, it's Mohammadreza, I don't have much to say, if you need to know something about me, you can find it in my <a href="./CVFiles/MohammadrezaAmaniCV.V3.0.1.en.pdf"> Resume </a> or <a href="https://MohammadrezaAmani.github.io/"> Website </a>. 
 
 current life status: `ALIVE🌲`
 
@@ -32,6 +32,10 @@ If you feel you need my help in a project or want to communicate with me, feel f
     •
     <a href="https://t.me/MRAGHH">
         TELEGRAM
+    </a>
+    •
+    <a href="https://MohammadrezaAmani.github.io/">
+        WEBSITE
     </a>
 </p>
 
