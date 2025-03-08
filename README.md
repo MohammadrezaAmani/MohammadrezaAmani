@@ -27,7 +27,7 @@ If you feel you need my help in a project or want to communicate with me, feel f
         LINKEDIN
     </a>
     •
-    <a href="https://t.me/MRAGHH">
+    <a href="https://t.me/Mohammadreza_Amani">
         TELEGRAM
     </a>
     •
