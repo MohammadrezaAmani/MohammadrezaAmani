@@ -11,7 +11,7 @@
 </p>
 <br>
 <p align="center">
-Hey, it's Mohammadreza, I don't have much to say, if you need to know something about me, you can find it in my <a href="./CVFiles/src/backend/MohammadrezaAmani_backend.pdf"> Resume </a> or <a href="https://MohammadrezaAmani.github.io/"> Website </a>. 
+Hey, it's Mohammadreza, I don't have much to say, if you need to know something about me, you can find it in my <a href="https://moamani.ir/assets/cv/Mohammadreza_Amani_CV.pdf"> Resume </a> or <a href="https://moamani.ir"> Website </a>. 
 If you feel you need my help in a project or want to communicate with me, feel free to email me.
 </p>
 <p align="center">
@@ -31,7 +31,7 @@ If you feel you need my help in a project or want to communicate with me, feel f
         TELEGRAM
     </a>
     •
-    <a href="https://MohammadrezaAmani.github.io/">
+    <a href="https://moamani.ir">
         WEBSITE
     </a>
 </p>
